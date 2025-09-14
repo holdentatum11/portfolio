@@ -1,7 +1,7 @@
 # Old Dominion University Student
 
 ### Education
- Old Dominion University| B.S. in Biomedical Sciences, Minor in Data Science
+## Old Dominion University| B.S. in Biomedical Sciences, Minor in Data Science
  
  - Data Science and Analytics, Current
 
