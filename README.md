@@ -51,6 +51,6 @@ Dedicated Biomedical Sciences graduate and current student in Data Sceince and A
 
 ### Extracurricular and Leadership
  - **Global Health Study Abroad (Ireland)** – Old Dominion University | Spring 2024
-  -  Participated in an interprofessional global health study abroad program, focusing on cultural immersion, epidemiology, and healthcare delivery in underserved region.
-  -  Engaged in community health assessments, public health interventions, and collaborative healthcare projects with diverse professionals and local communities.
+   -  Participated in an interprofessional global health study abroad program, focusing on cultural immersion, epidemiology, and healthcare delivery in underserved region.
+   -  Engaged in community health assessments, public health interventions, and collaborative healthcare projects with diverse professionals and local communities.
 
