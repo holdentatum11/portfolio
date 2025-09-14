@@ -4,7 +4,7 @@
 ***Old Dominion University | B.S. in Biomedical Sciences, Minor in Data Science***  
 Graduated: **December 2024 | GPA: 3.66**  
 Achievements:  
-** - Magna Cum Laude**  
+- **Magna Cum Laude**  
 
 
 
