@@ -19,7 +19,8 @@ Services Research Methods (PUBH 445)
 - **Advanced Research & Independent Study:** Methods in Immunological Research
 (BIO 440), Research Apprenticeship - Transportation Safety (HNRS 226), Independent
 Study – Survey Methodology & AI Research (DASC 497)
-
+***Old Dominion University | M.S. in Data Science and Analytics***
+Currently Taking.
 
 
 
