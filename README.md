@@ -54,3 +54,5 @@ Dedicated Biomedical Sciences graduate and current student in Data Sceince and A
    -  Participated in an interprofessional global health study abroad program, focusing on cultural immersion, epidemiology, and healthcare delivery in underserved region.
    -  Engaged in community health assessments, public health interventions, and collaborative healthcare projects with diverse professionals and local communities.
 
+### Curriculum Vitae 
+(HTatum_CV.pdf)
