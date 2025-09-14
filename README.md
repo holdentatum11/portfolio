@@ -23,6 +23,12 @@ Study – Survey Methodology & AI Research (DASC 497)
 ***Old Dominion University | M.S. in Data Science and Analytics***  
 Currently Enrolled
 
-## About
+### About
 Dedicated Biomedical Sciences graduate and current student in Data Sceince and Analytics Masters program, skilled in data analytics, visualization, and research methodologies. Passionate about applying analytical techniques across multiple disciplines. Background in data interpretation and research methodologies, with experience in applying data analysis and visualization techniques in academic research. Currently self-learning Python through an independent study course. Seeking opportunities to further develop data science expertise in a graduate program.
-### Projects
+
+### Research
+**Old Dominion University – Independent Research Project (AI-Driven Survey Development & Evaluation)**  
+**Researcher, Data Analyst | 2023 – Present**  
+- Focused on data collection, processing, and visualization for an experiment on AIdriven survey development and readability.  
+- Collected and processed experimental data for a study investigating AI-generated survey question readability across different prompting techniques.  
+- Designed data visualizations and presentation materials for a conference presentation at MAPOR 2024, showcasing key insights from the research.
