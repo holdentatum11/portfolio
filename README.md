@@ -34,12 +34,23 @@ Dedicated Biomedical Sciences graduate and current student in Data Sceince and A
 - Designed data visualizations and presentation materials for a conference presentation at MAPOR 2024, showcasing key insights from the research.
 
 ### Technical Skills
-**Biological Research Methods:** Familiar with biological research methods, including hands-on experience in laboratory settings.  
-**Statistical Analysis:** Experience in applying statistical methods to interpret and draw meaningful conclusions from data sets.  
-**Critical Thinking:** Adept at analyzing complex problems, identifying key issues, and developing effective solutions.  
-**Effective Communication:** Strong verbal and written communication skills.  
-**Data Storytelling:** Strong ability to craft compelling narratives from data insights, enhancing engagement and clarity in research communication.  
-**Programming & Data Analysis:** Basic knowledge of Python, actively learning advanced applications in data science and machine learning.  
-**Spatial Analysis:** Basic proficiency in ArcGIS Pro for spatial data visualization and analysis.  
-**Effective Communication:** Strong verbal and written communication skills  
-**Microsoft Office:** Proficient in using Word, Excel, and PowerPoint for data analysis, reporting, and presentations.  
+- **Biological Research Methods:** Familiar with biological research methods, including hands-on experience in laboratory settings.  
+- **Statistical Analysis:** Experience in applying statistical methods to interpret and draw meaningful conclusions from data sets.  
+- **Critical Thinking:** Adept at analyzing complex problems, identifying key issues, and developing effective solutions.  
+- **Effective Communication:** Strong verbal and written communication skills.  
+- **Data Storytelling:** Strong ability to craft compelling narratives from data insights, enhancing engagement and clarity in research communication.  
+- **Programming & Data Analysis:** Basic knowledge of Python, actively learning advanced applications in data science and machine learning.  
+- **Spatial Analysis:** Basic proficiency in ArcGIS Pro for spatial data visualization and analysis.  
+- **Effective Communication:** Strong verbal and written communication skills  
+- **Microsoft Office:** Proficient in using Word, Excel, and PowerPoint for data analysis, reporting, and presentations.  
+
+### Certificates and Online Courses
+- **Mastering ArcGIS Pro 3: Maps, Layers, Projects, and Layouts** (Geospatial Training Services, LLC – 12 Hours, May 2024)
+- **100 Days of Code: The Complete Python Pro Bootcamp** (Udemy - In Progress)
+- **Python for Data Science and Machine Learning Bootcamp** (Udemy - In Progress)
+
+### Extracurricular and Leadership
+ - **Global Health Study Abroad (Ireland)** – Old Dominion University | Spring 2024
+  - Participated in an interprofessional global health study abroad program, focusing on cultural immersion, epidemiology, and healthcare delivery in underserved region.
+  - Engaged in community health assessments, public health interventions, and collaborative healthcare projects with diverse professionals and local communities.
+
