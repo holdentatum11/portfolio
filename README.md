@@ -32,3 +32,14 @@ Dedicated Biomedical Sciences graduate and current student in Data Sceince and A
 - Focused on data collection, processing, and visualization for an experiment on AIdriven survey development and readability.  
 - Collected and processed experimental data for a study investigating AI-generated survey question readability across different prompting techniques.  
 - Designed data visualizations and presentation materials for a conference presentation at MAPOR 2024, showcasing key insights from the research.
+
+### Technical Skills
+**Biological Research Methods:** Familiar with biological research methods, including hands-on experience in laboratory settings.  
+**Statistical Analysis:** Experience in applying statistical methods to interpret and draw meaningful conclusions from data sets.  
+**Critical Thinking:** Adept at analyzing complex problems, identifying key issues, and developing effective solutions.  
+**Effective Communication:** Strong verbal and written communication skills.  
+**Data Storytelling:** Strong ability to craft compelling narratives from data insights, enhancing engagement and clarity in research communication.  
+**Programming & Data Analysis:** Basic knowledge of Python, actively learning advanced applications in data science and machine learning.  
+**Spatial Analysis:** Basic proficiency in ArcGIS Pro for spatial data visualization and analysis.  
+**Effective Communication:** Strong verbal and written communication skills  
+**Microsoft Office:** Proficient in using Word, Excel, and PowerPoint for data analysis, reporting, and presentations.  
