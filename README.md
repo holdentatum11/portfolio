@@ -56,3 +56,4 @@ Dedicated Biomedical Sciences graduate and current student in Data Sceince and A
 
 ### Curriculum Vitae:
 [View my CV](HTatum_CV.pdf)
+
