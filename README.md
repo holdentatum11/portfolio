@@ -55,5 +55,4 @@ Dedicated Biomedical Sciences graduate and current student in Data Sceince and A
    -  Engaged in community health assessments, public health interventions, and collaborative healthcare projects with diverse professionals and local communities.
 
 ### Curriculum Vitae:
-[View my CV](HTatum_CV.pdf)
 
