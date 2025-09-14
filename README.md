@@ -1,5 +1,7 @@
 # Old Dominion University Student
-
+**Contact Information**  
+- **Cell-Phone:** (757) 773-9729
+- **Email:** holdentatum@gmail.com
 ### Education
 ***Old Dominion University | B.S. in Biomedical Sciences, Minor in Data Science***  
 Graduated: **December 2024 | GPA: 3.66**  
